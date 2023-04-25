@@ -17,7 +17,7 @@ This E-Commerce API is a flexible and powerful tool for building e-commerce webs
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/sosyfy/e-commerce-rest-api.git`
+1. Clone the repository: `git clone https://github.com/KNNivetha/E-commerce-using-api.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Set up your MongoDB credentials in the `config.js` file
 4. Start the development server: `npm start` or `yarn start`
@@ -30,10 +30,3 @@ This E-Commerce API is a flexible and powerful tool for building e-commerce webs
 - MongoDB
 - Mongoose (for MongoDB object modeling)
 
-## Contributions
-
-Contributions are always welcome! If you have any suggestions or find a bug, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
